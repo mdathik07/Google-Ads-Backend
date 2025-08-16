@@ -13,7 +13,7 @@ app.use(express.json());
 
 // CORS configuration for pruction and 
 const allowedOrigins = [
-  'https://google-ads-frontend.vercel.app/',
+  'https://google-ads-frontend.vercel.app',
   'google-ads-frontend-f4ci2rucn-mdathik07s-projects.vercel.app',
   'http://localhost:3000',
   'http://localhost:3001',
